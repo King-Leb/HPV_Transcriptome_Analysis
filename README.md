@@ -11,11 +11,12 @@ scripts/
 supplementary/
     Supplementary tables
 
-metadata/
-    Sample metadata and cohort characteristics
-
 figures/
     Publication-quality figures
+
+docs/
+    packages and versions
+
 
 ## Software
 
@@ -25,15 +26,7 @@ Major packages
 
 - DESeq2
 - WGCNA
-- clusterProfiler
-- fgsea
 - biomaRt
 - EnhancedVolcano
-- STRINGdb
 - org.Hs.eg.db
 
-## Citation
-
-If using this repository, please cite:
-
-Donkor E. et al.

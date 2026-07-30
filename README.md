@@ -15,7 +15,7 @@ figures/
     Publication-quality figures
 
 docs/
-    packages and versions
+    Packages and versions
 
 
 ## Software

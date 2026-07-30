@@ -1,6 +1,9 @@
 # HPV_Transcriptome_Analysis
 # Conserved transcriptomic signatures associated with HPV status across HNC, OPSCC and VSCC
 
+
+DOI: https://zenodo.org/records/21707458
+
 This repository contains all scripts and supplementary material used in the manuscript.
 
 ## Repository structure
